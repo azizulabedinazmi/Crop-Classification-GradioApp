@@ -1,0 +1,31 @@
+# Core ML and Vision
+torch
+torchvision
+timm
+transformers
+opencv-python-headless
+
+# Gradio and UI
+gradio
+pillow
+pillow-avif-plugin
+
+# Data Science and Analytics
+numpy
+pandas
+scikit-learn
+
+# Visualization and Plotting
+matplotlib
+seaborn
+plotly
+
+# File Processing
+openpyxl
+fpdf2
+
+# Progress Utilities
+tqdm
+
+# Additional dependencies for HuggingFace Spaces
+spaces
