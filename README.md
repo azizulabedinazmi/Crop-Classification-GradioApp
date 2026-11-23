@@ -11,6 +11,10 @@ license: mit
 short_description: Advanced crop classification using self-supervised learning with Vision Transformers
 ---
 
+<p align="center">
+  <img src=".github/assets/banner.svg" alt="Crop Classification banner" width="100%">
+</p>
+
 # 🌾 Advanced Agricultural Crop Classification System
 
 > **State-of-the-art crop classification using self-supervised learning with Vision Transformers**
